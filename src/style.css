@@ -1,0 +1,19 @@
+.app {
+    text-align: center;
+}
+
+.line {
+    display: flex;
+    justify-content: center;
+}
+
+.cell {
+    border: 1px solid #fff;
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+    /* padding-inline: 0;
+    padding-block: 0; */
+    cursor: pointer;
+    background-color: skyblue;
+}
